@@ -1,0 +1,13 @@
+.bg-desktop {
+  background-image: url('./../projectInfo/images/pattern-bg-desktop.png');
+}
+
+.bg-mobile {
+  background-image: url('./../projectInfo/images/pattern-bg-mobile.png');
+}
+
+.bg-responsive {
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}

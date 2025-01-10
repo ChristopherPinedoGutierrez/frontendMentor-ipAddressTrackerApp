@@ -6,7 +6,7 @@ import tsconfigPaths from 'vite-tsconfig-paths'
 // https://vitejs.dev/config https://vitest.dev/config
 export default defineConfig({
   plugins: [react(), tsconfigPaths()],
-  base: '/ipAddressTrackerApp/',
+  base: '/frontendMentor-ipAddressTrackerApp/',
   test: {
     globals: true,
     environment: 'happy-dom',

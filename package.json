@@ -1,5 +1,5 @@
 {
-  "homepage": "https://christopherpinedo.github.io/ipAddressTrackerApp/",
+  "homepage": "https://christopherpinedogutierrez.github.io/frontendMentor-ipAddressTrackerApp/",
   "name": "ip-address-tracker-app",
   "description": "",
   "version": "0.1.0",
@@ -13,7 +13,7 @@
     "test:ui": "vitest --ui",
     "lint": "eslint src --max-warnings=0",
     "typecheck": "tsc --project tsconfig.json --noEmit",
-    "deploy" : "gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "leaflet": "^1.9.4",
